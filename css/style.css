@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
 * {
 	padding: 0;
 	margin: 0;
@@ -6,5 +8,41 @@
 }
 
 body {
-	background-color: bisque;
+	max-width: 1920px;
+	margin: auto;
+	font-family: "Open Sans", sans-serif;
+	overflow-x: hidden;
+}
+
+/* CSS for nav bar */
+.navbar {
+	background-color: #111010;
+	display: flex;
+	flex-direction: row;
+	padding: 30px 160px;
+	justify-content: space-between;
+	align-items: center;
+	font-weight: 500;
+	font-size: 16px;
+}
+
+.nav-list {
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.nav-list li {
+	margin: 0 20px;
+	color: #a2a1a1;
+}
+
+.btn-login {
+	color: #eef6ff;
+	background-color: #0c8bfd;
+	border-radius: 30px;
+	padding: 15px 35px;
+	font-size: 17px;
+	font-weight: 600;
 }
