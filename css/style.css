@@ -46,3 +46,76 @@ body {
 	font-size: 17px;
 	font-weight: 600;
 }
+
+/* CSS for hero section */
+.hero-section {
+	background-color: #111010;
+	color: #ffffff;
+	padding-left: 160px;
+	padding-top: 60px;
+	padding-bottom: 100px;
+	display: flex;
+	flex-direction: row;
+}
+
+.text-section {
+	width: 40vw;
+}
+
+.heading {
+	font-size: 65px;
+	font-weight: 700;
+}
+
+.heading span {
+	color: #0c8bfd;
+	font-weight: 700;
+	font-style: italic;
+}
+
+#head-para {
+	width: 60%;
+	color: #8b8a8a;
+	font-size: 22px;
+	font-weight: 400;
+	padding: 30px 0 50px 0;
+	width: 37vw;
+	line-height: 34px;
+}
+
+.get-started {
+	color: #eef6ff;
+	background-color: #0c8bfd;
+	border-radius: 30px;
+	padding: 15px 35px;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.try-free {
+	color: #eef6ff;
+	background: transparent;
+	border-radius: 30px;
+	padding: 15px 35px;
+	font-size: 18px;
+	font-weight: 600;
+	border: 1px solid;
+	margin-left: 30px;
+}
+
+.image-section img {
+	margin-left: 20px;
+}
+
+/* CSS for all logo section */
+/* .logo-section {
+	background-color: #1d1c1c;
+	padding: 45px 260px;
+}
+
+.all-logo {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+} */
