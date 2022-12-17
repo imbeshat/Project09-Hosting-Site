@@ -108,7 +108,7 @@ body {
 }
 
 /* CSS for all logo section */
-/* .logo-section {
+.logo-section {
 	background-color: #1d1c1c;
 	padding: 45px 260px;
 }
@@ -118,4 +118,4 @@ body {
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
-} */
+}
