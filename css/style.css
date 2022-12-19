@@ -128,9 +128,6 @@ body {
 	background-color: #ffffff;
 	color: #111010;
 	padding: 100px 100px;
-	/* text-align: center; */
-	/* display: flex;
-	flex-direction: column; */
 }
 
 .services {
@@ -138,7 +135,6 @@ body {
 	flex-direction: column;
 	align-items: center;
 	text-align: center;
-	/* justify-content: space-between; */
 }
 
 .service-text {
@@ -150,7 +146,7 @@ body {
 #all-service {
 	color: #9d9d9d;
 	font-size: 21px;
-	width: 25vw;
+	width: 32vw;
 }
 
 .service-img {
@@ -161,7 +157,7 @@ body {
 	font-size: 17px;
 	text-align: center;
 	font-weight: 500;
-	padding: 30px 140px;
+	padding: 30px 5px;
 }
 
 .service-img-fast {
