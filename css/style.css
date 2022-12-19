@@ -49,11 +49,12 @@ body {
 
 /* CSS for hero section */
 .hero-section {
+	position: relative;
 	background-color: #111010;
 	color: #ffffff;
 	padding-left: 160px;
 	padding-top: 60px;
-	padding-bottom: 100px;
+	padding-bottom: 170px;
 	display: flex;
 	flex-direction: row;
 }
@@ -104,7 +105,9 @@ body {
 }
 
 .image-section img {
-	margin-left: 20px;
+	position: absolute;
+	top: 30;
+	right: 180px;
 }
 
 /* CSS for all logo section */
@@ -147,14 +150,7 @@ body {
 #all-service {
 	color: #9d9d9d;
 	font-size: 21px;
-	width: 32vw;
-}
-
-.all-service {
-	width: 72%;
-	color: #8d8d8d;
-	font-size: 23px;
-	font-weight: 500;
+	width: 25vw;
 }
 
 .service-img {
@@ -162,47 +158,48 @@ body {
 	flex-direction: row;
 	justify-content: space-around;
 	align-items: center;
-	font-size: 30px;
+	font-size: 20px;
 	text-align: center;
 	font-weight: 600;
-	padding: 70px 0;
+	padding: 30px 0;
+	margin: 0 50px;
 }
 
-.service-img-dollar {
+.service-img-fast {
 	border: 1px solid #ffffff;
 	background-color: #272727;
 	padding: 65px 50px 65px 50px;
 	margin-top: 100px;
 }
 
-.service-img-dollar img {
+.service-img-fast img {
 	padding-bottom: 25px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.service-img-cloud {
+.service-img-signal {
 	border: 4px solid #747474;
-	background-color: #454241;
+	background-color: #111010;
 	padding: 40px 30px 50px 30px;
 }
 
-.service-img-cloud img {
+.service-img-signal img {
 	padding-bottom: 25px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.service-img-safety {
+.service-img-heart {
 	border: 1px solid #ffffff;
-	background-color: #272727;
+	background-color: #a36767;
 	padding: 65px 50px 65px 50px;
 	margin-top: 100px;
 }
 
-.service-img-safety img {
+.service-img-heart img {
 	padding-bottom: 25px;
 	display: block;
 	margin-left: auto;
