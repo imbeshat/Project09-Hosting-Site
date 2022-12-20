@@ -597,3 +597,17 @@ body {
 	margin: 27px 0;
 	font-size: 28px;
 }
+
+.progress-bar {
+	background-color: #f3f3f3;
+	width: 110%;
+	border-radius: 15px;
+	margin-left: 150px;
+}
+
+.bar {
+	background-color: #0c8bfd;
+	padding: 0.25%;
+	border-radius: 15px;
+	width: 10%;
+}
