@@ -557,3 +557,43 @@ body {
 	width: 40%;
 	font-weight: 500;
 }
+
+.cust-rating {
+	display: flex;
+	flex-direction: row;
+	margin: 100px 0 100px 150px;
+}
+
+.rating-card1 {
+	background-color: #111010;
+	color: #ffffff;
+	padding: 40px 30px;
+	border-radius: 30px;
+	margin-right: 20px;
+}
+
+.rating-card2 {
+	padding: 40px 30px;
+	border-radius: 30px;
+	border-left: 2px solid #cecece;
+	border-top: 2px solid #cecece;
+	border-bottom: 2px solid #cecece;
+	margin-left: 40px;
+	margin-right: -50px;
+}
+
+.cust-name {
+	font-weight: 700;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.cust-desig {
+	font-size: 15px;
+	font-weight: 500;
+}
+
+.cust-words {
+	margin: 27px 0;
+	font-size: 28px;
+}
