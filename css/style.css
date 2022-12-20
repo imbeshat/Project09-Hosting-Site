@@ -660,3 +660,32 @@ input {
 .signup-hr {
 	border: 1px solid #535252;
 }
+
+footer {
+	background-color: #111010;
+	padding: 0 170px 80px 170px;
+	color: #b0b0b0;
+	font-weight: 500;
+}
+
+.footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-bottom: 70px;
+}
+
+.footer li {
+	list-style-type: none;
+	margin-bottom: 10px;
+}
+
+.head-li {
+	font-size: 20px;
+	padding-bottom: 10px;
+	font-weight: 600;
+}
+
+footer img {
+	margin-top: 40px;
+}
