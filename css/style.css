@@ -536,3 +536,24 @@ body {
 	color: #0c8bfd;
 	background-color: #ffffff;
 }
+
+/* CSS for customer section */
+.cust-comments {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0 150px;
+}
+
+.cust-comments h1 {
+	font-size: 50px;
+	width: 40%;
+}
+
+.cust-comments p {
+	font-size: 20px;
+	color: #a09f9f;
+	width: 40%;
+	font-weight: 500;
+}
