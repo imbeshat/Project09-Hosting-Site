@@ -446,7 +446,7 @@ body {
 .regular-premium-plan {
 	background-color: #ffffff;
 	padding: 30px 30px;
-	width: 30%;
+	width: 31.7%;
 	border-radius: 30px;
 }
 
@@ -473,6 +473,7 @@ body {
 
 .regular-text {
 	margin-right: 30px;
+	margin-right: 10px;
 }
 
 .plans-hr {
@@ -484,7 +485,7 @@ body {
 	background-color: #0c8bfd;
 	color: #ffffff;
 	padding: 30px 30px;
-	width: 30%;
+	width: 31.7%;
 	border-radius: 30px;
 }
 
