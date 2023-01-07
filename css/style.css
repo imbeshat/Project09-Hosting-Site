@@ -522,13 +522,13 @@ body {
 }
 
 .btn-select {
-	font-size: 15px;
+	font-size: 16px;
 	font-weight: 600;
 	background-color: #0c8bfd;
 	color: #ffffff;
 	border: none;
 	border-radius: 50px;
-	padding: 20px 135px;
+	padding: 22px 135px;
 	margin: 25px 20px 20px 0;
 }
 
