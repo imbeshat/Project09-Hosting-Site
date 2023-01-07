@@ -674,8 +674,8 @@ footer {
 .footer {
 	display: flex;
 	flex-direction: row;
-	justify-content: space-around;
-	margin-bottom: 70px;
+	justify-content: space-between;
+	margin: 0 60px 70px 60px;
 }
 
 .footer li {
