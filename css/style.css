@@ -540,7 +540,7 @@ body {
 /* CSS for customer section */
 .cust-section {
 	background-color: #ffffff;
-	padding: 120px 0 120px 120px;
+	padding: 130px 0 130px 120px;
 }
 
 .cust-comments {
@@ -551,12 +551,12 @@ body {
 }
 
 .cust-comments h1 {
-	font-size: 50px;
+	font-size: 55px;
 	width: 40%;
 }
 
 .cust-comments p {
-	font-size: 20px;
+	font-size: 21px;
 	color: #a09f9f;
 	width: 40%;
 	font-weight: 500;
