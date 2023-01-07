@@ -638,13 +638,15 @@ body {
 
 form {
 	text-align: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
 }
 
 input {
 	background-color: #3e3d3d;
 	font-size: 18px;
 	padding: 20px 50px 20px 30px;
-	margin: 0 10px;
 	border-radius: 30px;
 	border: none;
 }
@@ -654,7 +656,6 @@ input {
 	color: #ffffff;
 	font-size: 18px;
 	padding: 20px 40px;
-	margin: 0 10px;
 	border-radius: 30px;
 	border: none;
 }
