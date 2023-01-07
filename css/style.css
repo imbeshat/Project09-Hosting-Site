@@ -113,7 +113,7 @@ body {
 /* CSS for all logo section */
 .logo-section {
 	background-color: #1d1c1c;
-	padding: 45px 260px;
+	padding: 45px 200px;
 }
 
 .all-logo {
@@ -127,7 +127,7 @@ body {
 .service-section {
 	background-color: #ffffff;
 	color: #111010;
-	padding: 100px 100px;
+	padding: 100px 60px;
 }
 
 .services {
@@ -222,7 +222,7 @@ body {
 	background-color: #ffffff;
 	display: flex;
 	flex-direction: column;
-	padding: 0 160px 160px 160px;
+	padding: 0 120px 160px 120px;
 }
 
 .text-feature {
@@ -421,7 +421,7 @@ body {
 /* CSS for service plan section */
 .service-plan-section {
 	background-color: #111010;
-	padding: 110px 150px;
+	padding: 110px 120px;
 }
 
 .text-plan {
@@ -538,12 +538,16 @@ body {
 }
 
 /* CSS for customer section */
+.cust-section {
+	background-color: #ffffff;
+	padding: 120px 0 120px 120px;
+}
+
 .cust-comments {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
-	margin: 0 150px;
 }
 
 .cust-comments h1 {
@@ -556,12 +560,13 @@ body {
 	color: #a09f9f;
 	width: 40%;
 	font-weight: 500;
+	margin-right: 120px;
 }
 
 .cust-rating {
 	display: flex;
 	flex-direction: row;
-	margin: 100px 0 100px 150px;
+	margin: 100px 0 100px 0;
 }
 
 .rating-card1 {
@@ -569,17 +574,16 @@ body {
 	color: #ffffff;
 	padding: 40px 30px;
 	border-radius: 30px;
-	margin-right: 20px;
+	margin-right: -35px;
 }
 
 .rating-card2 {
-	padding: 40px 30px;
+	padding: 40px 0 40px 30px;
 	border-radius: 30px;
 	border-left: 2px solid #cecece;
 	border-top: 2px solid #cecece;
 	border-bottom: 2px solid #cecece;
-	margin-left: 40px;
-	margin-right: -50px;
+	margin-left: 100px;
 }
 
 .cust-name {
@@ -600,9 +604,8 @@ body {
 
 .progress-bar {
 	background-color: #f3f3f3;
-	width: 110%;
+	width: 100%;
 	border-radius: 15px;
-	margin-left: 150px;
 }
 
 .bar {
@@ -615,8 +618,7 @@ body {
 /* CSS for sign up section */
 .sign-up {
 	background-color: #111010;
-	margin-top: 150px;
-	padding: 70px 150px;
+	padding: 70px 120px;
 }
 
 .sign-up h1 {
@@ -624,7 +626,7 @@ body {
 	font-size: 50px;
 	text-align: center;
 	font-weight: 400;
-	margin: 0 160px 70px 160px;
+	margin: 20px 0 70px 0;
 }
 
 .signup-form {
@@ -663,7 +665,7 @@ input {
 
 footer {
 	background-color: #111010;
-	padding: 0 170px 80px 170px;
+	padding: 0 120px 80px 120px;
 	color: #b0b0b0;
 	font-weight: 500;
 }
