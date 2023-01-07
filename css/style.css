@@ -262,7 +262,7 @@ body {
 }
 
 .speed-feature {
-	margin-top: 25px;
+	margin-top: 29px;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
@@ -279,7 +279,7 @@ body {
 }
 
 .security-feature {
-	margin-top: 25px;
+	margin-top: 29px;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
@@ -296,7 +296,7 @@ body {
 }
 
 .additional-feature {
-	margin-top: 25px;
+	margin-top: 29px;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
@@ -313,7 +313,7 @@ body {
 }
 
 .support-feature {
-	margin-top: 25px;
+	margin-top: 29px;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
